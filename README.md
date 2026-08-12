@@ -65,7 +65,7 @@ MacOS iTerm 2 users must turn on <kbd>meta</kbd> key — https://coderwall.com/p
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>w</kbd></td>
-<td>Cut the Word before the cursor to the clipboard</td>
+<td>Cut the Word before the cursor to the clipboard (same with <kbd>Alt</kbd> + <kbd>BackSpace</kbd>) </td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>k</kbd></td>
