@@ -127,7 +127,7 @@ MacOS iTerm 2 users must turn on <kbd>meta</kbd> key — https://coderwall.com/p
 <td>Next command in history (i.e. walk forward through the command history)</td>
 </tr><tr>
 <td><kbd>Ctrl</kbd> + <kbd>s</kbd></td>
-<td>Go back to the next most recent command.</td>
+<td>Warning : in typical terminal, this is a pause display, and *not* a keyboard lock. <br>Go back to the next most recent command.</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>o</kbd></td>
