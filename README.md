@@ -107,6 +107,7 @@ MacOS iTerm 2 users must turn on <kbd>meta</kbd> key — https://coderwall.com/p
 <td><kbd>Ctrl</kbd> + <kbd>_</kbd></td>
 <td>Undo</td>
 </tr>
+<tr>
 <td><kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>e</kbd></td>
 <td>Expand command line (full line)</td>
 </tr>
